@@ -12,11 +12,6 @@
 - Bu Kadar Bot Hazır.
 
 
- # Örnek Görseller
-
-<img  src="">
-
-
 # Star Development
 
 - [Discord Profilim](https://discord.com/users/1143638421257072661)
@@ -25,7 +20,7 @@
 
 - [Star Developments](https://discord.gg/ez8kSfyCa7)
 
-[![Discord Banner](https://api.weblutions.com/discord/invite/y6TR3he9/)](https://discord.gg/y6TR3he9)
+[![Discord Banner](https://api.weblutions.com/discord/invite/EBrD9yYhSn/)](https://discord.gg/EBrD9yYhSn)
 
 
 
