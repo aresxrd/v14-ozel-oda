@@ -1,0 +1,30 @@
+{
+  "name": "v14-ozel-oda-aresxrd",
+  "version": "0.0.1",
+  "description": "aresxrd Özel Oda Sistemi",
+  "main": "aresxrd.js",
+  "scripts": {
+    "start": "node aresxrd.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "aresxrd",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/builders": "^1.2.0",
+    "@discordjs/rest": "^1.1.0",
+    "@discordjs/voice": "^0.11.0",
+    "axios": "^0.27.2",
+    "bitfield": "^4.1.0",
+    "discord-api-types": "^0.37.8",
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.2",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "wio.db": "^4.0.22"
+  },
+  "keywords": ["ARESXRD"]
+}

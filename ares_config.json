@@ -1,0 +1,9 @@
+{
+  "token": "BOT-TOKEN",
+  "prefix": ".",
+  "voiceChannel":"BOT-SES-ODASI",
+  "kategoriID":"ÖZEL-ODA-KATEGORİ-ID",
+  "sunucuID":"SUNUCU-ID",
+  "odaOlusturID":"ÖZEL-ODA-OLUSTUR-SES-KANALI*ID",
+  "odaSure":120000
+}
